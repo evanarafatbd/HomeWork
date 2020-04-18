@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="chromedriver">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/chromedriver" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/Downloads/chromedriver" recursive="false" />
+  </library>
+</component>

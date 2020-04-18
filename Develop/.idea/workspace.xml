@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b23ce137-b9c6-4aec-90b7-ec19dda10f74" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/JavaDatabaseMarch2020/lib/mysql-connector-java-8.0.11.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDatabaseMarch2020/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDatabaseMarch2020/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDatabaseMarch2020/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDatabaseMarch2020/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDatabaseMarch2020/out/production/project10/db/ConnectSqlDB.class" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDatabaseMarch2020/out/production/project10/db/ConnectSqlDB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDatabaseMarch2020/out/production/project10/db/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDatabaseMarch2020/out/production/project10/db/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDatabaseMarch2020/project10.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDatabaseMarch2020/project10.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDatabaseMarch2020/secret.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDatabaseMarch2020/secret.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDatabaseMarch2020/src/db/ConnectSqlDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDatabaseMarch2020/src/db/ConnectSqlDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MidtermMarch2020/src/definition/core-java-conceptual-questions" beforeDir="false" afterPath="$PROJECT_DIR$/MidtermMarch2020/src/definition/core-java-conceptual-questions" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/MidtermMarch2020" />
+  </component>
+  <component name="ProjectId" id="1aHNIodovVoRjahnF4g3Jrqmd0W" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b23ce137-b9c6-4aec-90b7-ec19dda10f74" name="Default Changelist" comment="" />
+      <created>1586388481643</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586388481643</updated>
+    </task>
+    <servers />
+  </component>
+</project>

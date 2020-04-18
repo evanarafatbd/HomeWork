@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Amazon Test Automation Script]">
+  <test thread-count="5" verbose="0" name="Amazon Home(failed)">
+    <classes>
+      <class name="search.TestingAmazonSearch">
+        <methods>
+          <include name="testTypingOnSearchBox"/>
+          <include name="setUp"/>
+          <include name="cleanUp"/>
+        </methods>
+      </class> <!-- search.TestingAmazonSearch -->
+    </classes>
+  </test> <!-- Amazon Home(failed) -->
+</suite> <!-- Failed suite [Amazon Test Automation Script] -->
